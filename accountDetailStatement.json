@@ -1,0 +1,39 @@
+{
+	"ackStatus": "00000",
+	"casaAccountStatementDetails": [],
+	"customerName": "LAJISH SUBRAMANIAN",
+	"account": {
+	  "id": 524291,
+	  "version": 11778,
+	  "idVersion": "524291,11778",
+	  "accountNumber": "005104000151658",
+	  "acctProduct": {
+		"productType": {
+		  "code": "SD",
+		  "description": "SAVING DEPOSIT"
+		},
+		"code": "1001",
+		"description": "SAVINGS GENERAL"
+	  },
+	  "currency": {
+		"id": "8555399",
+		"version": "0",
+		"idVersion": "8555399,0",
+		"code": "INR",
+		"description": "Indian rupee",
+		"currencyIsoCode": 356,
+		"numberOfSubUnits": 2
+	  }
+	},
+	"openingBalance": " 0.00",
+	"closingBalance": " 0.00",
+	"availableBalance": "- 1,26,115.06",
+	"statementFromDate": 1372617000000,
+	"statementUptoDate": "02-Jan-2014",
+	"numberOfCredits": 0,
+	"numberOfDebits": 0,
+	"totalCreditAmount": " 0.00",
+	"totalDebitAmount": " 0.00",
+	"lastNTransactionFilter": 10,
+	"currencyCode": "INR"
+  }
